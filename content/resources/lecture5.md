@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on when earnings became so dependent
   on education, childhood interventions, the ABCDERIAN program, and a Freeman reading.
-file: /media/courses/11-126j-economics-of-education-spring-2007/020b8026c3364e5649b40159a56e5f78_lecture5.pdf
+file: /courses/11-126j-economics-of-education-spring-2007/020b8026c3364e5649b40159a56e5f78_lecture5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lecture5.pdf
 uid: 020b8026-c336-4e56-49b4-0159a56e5f78
 ---
+This resource contains lecture notes on when earnings became so dependent on education, childhood interventions, the ABCDERIAN program, and a Freeman reading.
+
