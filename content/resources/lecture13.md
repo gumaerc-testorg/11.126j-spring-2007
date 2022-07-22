@@ -5,6 +5,7 @@ file: /courses/11-126j-economics-of-education-spring-2007/7e407c1a657362fa313924
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture13.pdf
 uid: 7e407c1a-6573-62fa-3139-24925ed3fa0f
 ---
 This resource contains lecture notes on questions from the last lecture.
-

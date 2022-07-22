@@ -5,6 +5,7 @@ file: /courses/11-126j-economics-of-education-spring-2007/542534c942ced91864781d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps4.pdf
 uid: 542534c9-42ce-d918-6478-1d86bc4b5315
 ---
 This resource contains a problem set with three problems.
-

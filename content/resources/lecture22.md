@@ -6,6 +6,7 @@ file: /courses/11-126j-economics-of-education-spring-2007/72c81a93324c4d86edb430
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture22.pdf
 uid: 72c81a93-324c-4d86-edb4-309b65a9946c
 ---
 This resource contains lecture notes on how technology can complement what teachers do.
-

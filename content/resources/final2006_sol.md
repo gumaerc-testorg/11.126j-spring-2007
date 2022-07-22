@@ -6,6 +6,7 @@ file: /courses/11-126j-economics-of-education-spring-2007/884b2f236556ef7fe87e1b
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: final2006_sol.pdf
 uid: 884b2f23-6556-ef7f-e87e-1bb28199de44
 ---
 This resource contains solutions to the spring 2006 final exam for the course.
-

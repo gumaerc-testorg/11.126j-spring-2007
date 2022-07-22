@@ -5,6 +5,7 @@ file: /courses/11-126j-economics-of-education-spring-2007/592e295d277d50a0cf6284
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm2006.pdf
 uid: 592e295d-277d-50a0-cf62-84767ce539fc
 ---
 This resource contains the spring 2006 midterm exam for the course.
-
