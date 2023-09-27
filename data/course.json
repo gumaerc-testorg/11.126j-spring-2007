@@ -2,7 +2,8 @@
   "term": "Spring",
   "year": "2007",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -48,6 +49,7 @@
     "Exams with Solutions",
     "Lecture Notes"
   ],
-  "site_uid": "217e2f43-de55-4c82-a8d5-986d58f6242d",
+  "site_uid": "aa5dcfe2-03bc-4b1f-b723-e28d0a7fd7b0",
+  "site_short_id": "11.126j-spring-2007",
   "title": "Course Metadata"
 }
