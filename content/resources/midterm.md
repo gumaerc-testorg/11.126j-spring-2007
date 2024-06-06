@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the spring 2007 midterm exam for the course.
 file: /courses/11-126j-economics-of-education-spring-2007/ed561085e87974a4a6a0555de40fc545_midterm.pdf
+file_size: 30101
 file_type: application/pdf
 learning_resource_types:
 - Exams

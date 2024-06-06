@@ -4,6 +4,7 @@ description: This resource contains lecture notes on the college-HS wage gap and
   real wage, reconciling the human capital model with Freeman short-term view of the
   labor market for college graduates, and measuring the return of education.
 file: /courses/11-126j-economics-of-education-spring-2007/5a4f129438964dff8d3eaf2e991035bf_lecture6.pdf
+file_size: 82820
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

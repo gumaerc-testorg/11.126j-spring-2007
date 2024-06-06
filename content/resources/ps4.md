@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a problem set with three problems.
 file: /courses/11-126j-economics-of-education-spring-2007/542534c942ced91864781d86bc4b5315_ps4.pdf
+file_size: 52454
 file_type: application/pdf
 learning_resource_types:
 - Assignments

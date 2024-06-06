@@ -4,6 +4,7 @@ description: This resource contains lecture notes on higher education policy, co
   logit model, math remediation, English remediation, and costs of an undergraduate
   education and financial aid.
 file: /courses/11-126j-economics-of-education-spring-2007/bae13a22eb2bdaa82ad38c1f343ee91a_lecture24.pdf
+file_size: 46793
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
