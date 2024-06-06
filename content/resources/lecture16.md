@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains lecture notes on school vouchers and parental
   choice, Rouse model, Cullen, Jacob, and Levitt, and questions from the last lecture.
 file: /courses/11-126j-economics-of-education-spring-2007/42c728380e1f21a503754ad1d33c97af_lecture16.pdf
+file_size: 43436
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

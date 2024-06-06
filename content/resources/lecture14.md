@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains lecture notes on Kruger's analysis of scores on
   the Stanford Achievement Test.
 file: /courses/11-126j-economics-of-education-spring-2007/694b9f81507b736ae4281a1f450015e3_lecture14.pdf
+file_size: 38449
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

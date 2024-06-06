@@ -27,7 +27,7 @@ Autor, David, Frank Levy, and Richard J. Murnane. "The Consequences of Increasin
 
 Wessel, David. "Moving up: Challenges to the American Dream; Escalator Ride: As Rich-poor Gap Widens in the U.S., Class Mobility Stalls; Those in Bottom Rung Enjoy Better Odds in Europe; How Parents Confer an Edge; Immigrants See Fast Advance." *The Wall Street Journal* (May 13, 2005): A1.
 
-Jorgenson, Dale W., Mun S. Ho, and Kevin J. Stiroh. "Will the U.S. Productivity Resurgence Continue?" *Current Issues in Economics and Finance* 10, no. 13 (2004). ({{% resource_link "ad83c2e2-e983-404b-802c-f83654202661" "PDF" %}})
+Jorgenson, Dale W., Mun S. Ho, and Kevin J. Stiroh. "Will the U.S. Productivity Resurgence Continue?" *Current Issues in Economics and Finance* 10, no. 13 (2004). ([PDF](http://www.ny.frb.org/research/current_issues/ci10-13.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -45,7 +45,7 @@ Knudsen, Eric I., James J. Heckman, Judy L. Cameron, and Jack P. Shonkoff. "Econ
 
 Feinstein, Leon. "Inequality in the Early Cognitive Development of British Children in the 1970 Cohort." *Economica* 70, no. 277 (2003): 73-97.
 
-Krueger, Alan B. "Inequality, Too Much of a Good Thing." Paper to the Princeton University Industrial Relations Section. Princeton, NJ: Princeton University Press, April 16, 2002, pp. 12-23. ({{% resource_link "82679128-f482-4cf6-9772-b7ab0dad31f3" "PDF" %}})
+Krueger, Alan B. "Inequality, Too Much of a Good Thing." Paper to the Princeton University Industrial Relations Section. Princeton, NJ: Princeton University Press, April 16, 2002, pp. 12-23. ([PDF](http://www.irs.princeton.edu/pubs/pdfs/466.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -55,7 +55,7 @@ When did earnings become so dependent on education?
 
 Freeman, Richard B. *The Overeducated American*. New York, NY: Academic Press, 1976, chapters 1-3. ISBN: 9780122672507.
 
-Krueger, Alan B. "Inequality, Too Much of a Good Thing." Paper to the Princeton University Industrial Relations Section. Princeton, NJ: Princeton University Press, April 16, 2002, pp. 38-39. ({{% resource_link "45c2f8ff-b815-458a-95d5-74e232781eac" "PDF" %}})
+Krueger, Alan B. "Inequality, Too Much of a Good Thing." Paper to the Princeton University Industrial Relations Section. Princeton, NJ: Princeton University Press, April 16, 2002, pp. 38-39. ([PDF](http://www.princeton.edu/~ceps/workingpapers/87krueger.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6-7
@@ -63,7 +63,7 @@ Krueger, Alan B. "Inequality, Too Much of a Good Thing." Paper to the Princeton 
 Do our regression estimates overestimate the impact of education on earnings? The case of ability bias.
 {{< tdclose >}}{{< tdopen >}}
 
-Card, David. "{{% resource_link "733c7b1d-4357-4636-aca1-758db98bbee1" "Using Geographic Variation in College Proximity to Estimate the Return to Schooling" %}}." National Bureau of Economic Research Working Paper No. 4483, October 1993.
+Card, David. "[Using Geographic Variation in College Proximity to Estimate the Return to Schooling](http://www.nber.org/papers/w4483)." National Bureau of Economic Research Working Paper No. 4483, October 1993.
 
 Duflo, Esther. "Schooling and Labor Market Consequences of School Construction in Indonesia: Evidence from an Unusual Policy Experiment." *American Economic Review* 91, no. 4 (2001): 795-800.
 
@@ -89,7 +89,7 @@ Why has the rate of return to education increased?
 
 Levy, Frank, and Richard J. Murnane. "Computers, Offshoring, and Skills." Working Paper. September 18, 2005.
 
-Levy, Frank, and Peter Temin. "{{% resource_link "2f195f11-9b2e-4ea6-8333-bcd9b66a45b1" "Inequality and Institutions in 20th Century America" %}}." National Bureau of Economic Research Working Paper No. 13106, May 2007.
+Levy, Frank, and Peter Temin. "[Inequality and Institutions in 20th Century America](http://www.nber.org/papers/w13106)." National Bureau of Economic Research Working Paper No. 13106, May 2007.
 
 Freeman, Richard B. "Are Your Wages Set in Beijing?" *Journal of Economic Perspectives* 9, no. 3 (1995): 15-32.
 
@@ -135,7 +135,7 @@ Angrist, Joshua, and Victor Lavy. "Using Maimonides' Rule to Estimate the Effect
 School vouchers and parental choice
 {{< tdclose >}}{{< tdopen >}}
 
-Greene, Jay P., Paul E. Peterson, and Jiangtao Du. "Effectiveness of School Choice: The Milwaukee Experiment." *Education and Urban Society* 31, no. 2 (1999): 190-213. ({{% resource_link "e4c9c018-50a7-4db0-8ab3-54898ed8a1f8" "PDF" %}})
+Greene, Jay P., Paul E. Peterson, and Jiangtao Du. "Effectiveness of School Choice: The Milwaukee Experiment." *Education and Urban Society* 31, no. 2 (1999): 190-213. ([PDF](https://journals.sagepub.com/doi/10.1177/0013124599031002005))
 
 Cullen, Julie Berry, Brian A. Jacob, and Steven Levitt. "The Effect of School Choice on Participants: Evidence from Randomized Lotteries." *Econometrica* 74, no. 5 (2006): 1191-1230.
 
@@ -149,7 +149,7 @@ Rouse, Cecilia. "Schools and Student Achievement: More Evidence from the Milwauk
 School accountability, standards and testing
 {{< tdclose >}}{{< tdopen >}}
 
-Rose, Lowell C., and Alec M. Gallup. "{{% resource_link "c84d8b5d-702c-4e22-b2a2-af282fa4a057" "The 38th Annual Phi Delta Kappa/Gallup Poll of the Public's Attitudes toward the Public Schools" %}}." Phi Delta Kappa International Inc., 2006, Summary Tables.
+Rose, Lowell C., and Alec M. Gallup. "[The 38th Annual Phi Delta Kappa/Gallup Poll of the Public's Attitudes toward the Public Schools](http://www.eric.ed.gov/ERICWebPortal/custom/portlets/recordDetails/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ758062&ERICExtSearch_SearchType_0=no&accno=EJ758062)." Phi Delta Kappa International Inc., 2006, Summary Tables.
 
 Clotfelter, Charles T., and Helen F. Ladd. "Recognizing and Rewarding Success in Public Schools." Chapter 2 in *Holding Schools Accountable*. Edited by Helen Ladd. Washington, DC: Brookings Institution Press, 1996. ISBN: 9780815751038.
 
@@ -165,13 +165,13 @@ Teacher quality and teacher training
 
 Loeb, Susanna, and Marianne E. Page. "Examining the Link between Teacher Wages and Student Outcomes: The Importance of Alternative Labor Market Opportunities and Non-pecuniary Variation." *Review of Economics and Statistics* 82, no. 3 (2000): 393-408.
 
-Kane, Thomas J., Jonah E. Rockoff, and Douglas O. Staiger. "{{% resource_link "68564057-be36-4524-b30d-1d3eda764cea" "What Does Certification Tell Us about Teacher Effectiveness? Evidence from New York City" %}}." National Bureau of Economic Research Working Paper No. 12155, April 2006.
+Kane, Thomas J., Jonah E. Rockoff, and Douglas O. Staiger. "[What Does Certification Tell Us about Teacher Effectiveness? Evidence from New York City](http://www.nber.org/papers/w12155)." National Bureau of Economic Research Working Paper No. 12155, April 2006.
 
 Murnane, Richard J., and Frank Levy. "The Third Principle: Train the Frontline Workers." Chapter 6 in *Teaching the New Basic Skills: Principles for Educating Children to Thrive in a Changing Economy*. New York, NY: Free Press, 1996. ISBN: 9780684827391.
 
 ### Optional
 
-Angrist, Joshua A., and Victor Lavy. "{{% resource_link "d367d146-67de-4133-b587-a9287742c991" "Does Teacher Training Affect Pupil Learning? Evidence from Matched Comparisons in Jerusalem Public Schools" %}}." *Journal of Labor Economics* 19, no. 2 (2001): 343-369.
+Angrist, Joshua A., and Victor Lavy. "[Does Teacher Training Affect Pupil Learning? Evidence from Matched Comparisons in Jerusalem Public Schools](https://www.nber.org/papers/w6781)." *Journal of Labor Economics* 19, no. 2 (2001): 343-369.
 
 Corcoran, Sean P., William N. Evans, and Robert M. Schwab. "Women, the Labor Market, and the Declining Relative Quality of Teachers." *Journal of Policy Analysis and Management* 23, no. 3 (2004): 449-470.
 
@@ -181,13 +181,13 @@ Corcoran, Sean P., William N. Evans, and Robert M. Schwab. "Women, the Labor Mar
 Can technology complement what teachers do?
 {{< tdclose >}}{{< tdopen >}}
 
-Rouse, Cecilia Elena, and Alan B. Krueger. "{{% resource_link "dad267ca-a92e-43cd-9a23-81e6ac96c38b" "Putting Computerized Instruction to the Test: A Randomized Evaluation of a 'Scientifically Based' Reading Program" %}}." *Economics of Education Review* 23, no. 4 (2004): 323-338.
+Rouse, Cecilia Elena, and Alan B. Krueger. "[Putting Computerized Instruction to the Test: A Randomized Evaluation of a 'Scientifically Based' Reading Program](http://www.nber.org/papers/w10315)." *Economics of Education Review* 23, no. 4 (2004): 323-338.
 
 Burstein, Jill, Martin Chodorow, and Claudia Leacock. "*Criterion* Online Essay Evaluation: An Application for Automated Evaluation of Student Essays." Proceedings of the 15th Annual Conference on Innovative Applications of Artificial Intelligence, 2003.
 
 ### Optional
 
-Klopfer, Eric, and Kurt Squire. "{{% resource_link "9982fce4-beab-42d3-8e67-236f3e3b850f" "Environmental Detectives - The Development of an Augmented Reality Platform for Environmental Simulations" %}}." Forthcoming in *Educational Technology Research and Development*.
+Klopfer, Eric, and Kurt Squire. "[Environmental Detectives - The Development of an Augmented Reality Platform for Environmental Simulations](https://link.springer.com/article/10.1007/s11423-007-9037-6)." Forthcoming in *Educational Technology Research and Development*.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -195,13 +195,13 @@ Klopfer, Eric, and Kurt Squire. "{{% resource_link "9982fce4-beab-42d3-8e67-236f
 Higher education: Basic issues and structure
 {{< tdclose >}}{{< tdopen >}}
 
-Dynarsky, Susan. "{{% resource_link "4f4634d5-9f7d-4720-9b1f-121044d8c074" "Building the Stock of College-educated Labor" %}}." National Bureau of Economic Research Working Paper No. 11604, September 2005, pp. 1-10.
+Dynarsky, Susan. "[Building the Stock of College-educated Labor](http://www.nber.org/papers/11604)." National Bureau of Economic Research Working Paper No. 11604, September 2005, pp. 1-10.
 
 Winston, Gordon. "Subsidies, Hierarchy and Peers: The Awkward Economics of Higher Education." *Journal of Economic Perspectives* 13, no. 1 (1999): 13-36.
 
 ### Optional
 
-Avery, Christopher, Mark Glickman, Caroline Hoxby, and Andrew Metrick. "{{% resource_link "70b5cf27-232f-4b1a-bf3a-2bd41451f5b5" "A Revealed Preference Ranking of U.S. Colleges and Universities" %}}." National Bureau of Economic Research Working Paper No. 10803, October 2004.
+Avery, Christopher, Mark Glickman, Caroline Hoxby, and Andrew Metrick. "[A Revealed Preference Ranking of U.S. Colleges and Universities](http://www.nber.org/papers/W10803)." National Bureau of Economic Research Working Paper No. 10803, October 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24-25
@@ -209,11 +209,11 @@ Avery, Christopher, Mark Glickman, Caroline Hoxby, and Andrew Metrick. "{{% reso
 Higher education policy
 {{< tdclose >}}{{< tdopen >}}
 
-Dynarsky, Susan. "{{% resource_link "4f4634d5-9f7d-4720-9b1f-121044d8c074" "Building the Stock of College-educated Labor" %}}." National Bureau of Economic Research Working Paper No. 11604, September 2005, pp. 13-39, and relevant tables.
+Dynarsky, Susan. "[Building the Stock of College-educated Labor](http://www.nber.org/papers/11604)." National Bureau of Economic Research Working Paper No. 11604, September 2005, pp. 13-39, and relevant tables.
 
-Bettinger, Eric P., and Bridget Terry Long. "{{% resource_link "1f1dd1c6-9b6c-46b4-b812-8a8c01e070f9" "Addressing the Needs of Under-prepared Students in Higher Education: Does College Remediation Work" %}}?" National Bureau of Economic Research Working Paper No. 11325, May 2005.
+Bettinger, Eric P., and Bridget Terry Long. "[Addressing the Needs of Under-prepared Students in Higher Education: Does College Remediation Work](http://www.nber.org/papers/w11325)?" National Bureau of Economic Research Working Paper No. 11325, May 2005.
 
-Angrist, Joshua, Daniel Lang, and Philip Oreopoulos. "{{% resource_link "09e02609-f4e5-4b3c-b853-868911ac1722" "Lead Them to Water and Pay Them to Drink: An Experiment with Services and Incentives for College Achievement" %}}." National Bureau of Economic Research Working Paper No. 12790, December 2006.
+Angrist, Joshua, Daniel Lang, and Philip Oreopoulos. "[Lead Them to Water and Pay Them to Drink: An Experiment with Services and Incentives for College Achievement](http://www.nber.org/papers/12790)." National Bureau of Economic Research Working Paper No. 12790, December 2006.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
