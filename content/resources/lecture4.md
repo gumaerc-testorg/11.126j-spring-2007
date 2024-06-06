@@ -4,6 +4,7 @@ description: This resource contains lecture notes on the importance of early chi
   education, internal rate of return, marginal rate of return to education, and early
   childhood intervention.
 file: /courses/11-126j-economics-of-education-spring-2007/cdfc57099b5f59b5556b9a06d0fabd34_lecture4.pdf
+file_size: 36635
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
