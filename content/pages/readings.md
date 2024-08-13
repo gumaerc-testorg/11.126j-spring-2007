@@ -45,7 +45,7 @@ Knudsen, Eric I., James J. Heckman, Judy L. Cameron, and Jack P. Shonkoff. "Econ
 
 Feinstein, Leon. "Inequality in the Early Cognitive Development of British Children in the 1970 Cohort." *Economica* 70, no. 277 (2003): 73-97.
 
-Krueger, Alan B. "Inequality, Too Much of a Good Thing." Paper to the Princeton University Industrial Relations Section. Princeton, NJ: Princeton University Press, April 16, 2002, pp. 12-23. ([PDF](http://www.irs.princeton.edu/pubs/pdfs/466.pdf))
+Krueger, Alan B. "Inequality, Too Much of a Good Thing." Paper to the Princeton University Industrial Relations Section. Princeton, NJ: Princeton University Press, April 16, 2002, pp. 12-23. ([PDF](https://gceps.princeton.edu/wp-content/uploads/2017/01/87krueger.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
