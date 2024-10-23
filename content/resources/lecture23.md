@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on basic issues and structure of
   higher education, ranking factors, and remedial education in US colleges.
-file: /courses/11-126j-economics-of-education-spring-2007/cb671076b32dbedabb914248cf74eb30_lecture23.pdf
+file: /ol-ocw-studio-app/courses/11-126j-economics-of-education-spring-2007/cb671076b32dbedabb914248cf74eb30_lecture23.pdf
 file_size: 55106
 file_type: application/pdf
 learning_resource_types:

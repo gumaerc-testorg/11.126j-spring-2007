@@ -4,7 +4,7 @@ description: This resource contains lecture notes on educational measurement, hi
   market readiness, motivation, educational and business considerations, technology
   development considerations, and mapping writing features to natural language processing
   (NLP) tools.
-file: /courses/11-126j-economics-of-education-spring-2007/8d2ba0d2c1794082542e1c098a746f00_lecture21.pdf
+file: /ol-ocw-studio-app/courses/11-126j-economics-of-education-spring-2007/8d2ba0d2c1794082542e1c098a746f00_lecture21.pdf
 file_size: 30869
 file_type: application/pdf
 learning_resource_types:
