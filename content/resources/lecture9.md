@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on why the rate of return to education
   has increased, the Murnane, Willett, and Levy paper, and computers and work.
-file: /courses/11-126j-economics-of-education-spring-2007/932b006de1b17b408dd8d2fd7ff3a070_lecture9.pdf
+file: /ol-ocw-studio-app/courses/11-126j-economics-of-education-spring-2007/932b006de1b17b408dd8d2fd7ff3a070_lecture9.pdf
 file_size: 87292
 file_type: application/pdf
 learning_resource_types:

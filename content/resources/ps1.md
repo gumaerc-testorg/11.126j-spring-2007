@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a problem set with four problems.
-file: /courses/11-126j-economics-of-education-spring-2007/85f2603a95c2b81add1e4ff3f8e48245_ps1.pdf
+file: /ol-ocw-studio-app/courses/11-126j-economics-of-education-spring-2007/85f2603a95c2b81add1e4ff3f8e48245_ps1.pdf
 file_size: 57942
 file_type: application/pdf
 learning_resource_types:
