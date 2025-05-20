@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on how technology can complement
   what teachers do.
-file: /ol-ocw-studio-app/courses/11-126j-economics-of-education-spring-2007/72c81a93324c4d86edb4309b65a9946c_lecture22.pdf
+file: /courses/11-126j-economics-of-education-spring-2007/72c81a93324c4d86edb4309b65a9946c_lecture22.pdf
 file_size: 48448
 file_type: application/pdf
 learning_resource_types:
