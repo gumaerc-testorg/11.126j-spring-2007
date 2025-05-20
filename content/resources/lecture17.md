@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on school accountability, standards
   and testing, South Carolina, and Dallas.
-file: /ol-ocw-studio-app/courses/11-126j-economics-of-education-spring-2007/8ee78ae199b63fecc11ee9934d24713e_lecture17.pdf
+file: /courses/11-126j-economics-of-education-spring-2007/8ee78ae199b63fecc11ee9934d24713e_lecture17.pdf
 file_size: 34916
 file_type: application/pdf
 learning_resource_types:
