@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to the spring 2007 midterm exam for
   the course.
-file: /courses/11-126j-economics-of-education-spring-2007/b7eb8e5873e63fc81a4bf0b894d9ac23_midterm2006_sol.pdf
+file: /ol-ocw-studio-app/courses/11-126j-economics-of-education-spring-2007/b7eb8e5873e63fc81a4bf0b894d9ac23_midterm2006_sol.pdf
 file_size: 14012
 file_type: application/pdf
 learning_resource_types:

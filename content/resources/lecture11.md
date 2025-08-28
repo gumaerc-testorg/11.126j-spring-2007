@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on the answer to the reading question
   for the day, high school education, and complex communication.
-file: /courses/11-126j-economics-of-education-spring-2007/023670c31e168aa320d8dbc46da5d491_lecture11.pdf
+file: /ol-ocw-studio-app/courses/11-126j-economics-of-education-spring-2007/023670c31e168aa320d8dbc46da5d491_lecture11.pdf
 file_size: 22784
 file_type: application/pdf
 learning_resource_types:

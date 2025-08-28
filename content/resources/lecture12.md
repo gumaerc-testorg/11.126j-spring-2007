@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on the answer to the question from
   the last lecture.
-file: /courses/11-126j-economics-of-education-spring-2007/ef8a05c10542e0cc1dc8904eeae789c2_lecture12.pdf
+file: /ol-ocw-studio-app/courses/11-126j-economics-of-education-spring-2007/ef8a05c10542e0cc1dc8904eeae789c2_lecture12.pdf
 file_size: 190126
 file_type: application/pdf
 learning_resource_types:
