@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on questions from the last lecture,
   inductive rules, and expert thinking.
-file: /courses/11-126j-economics-of-education-spring-2007/55a1a6a05fc174ff49b8712d9c273ca2_lecture10.pdf
+file: /ol-ocw-studio-app/courses/11-126j-economics-of-education-spring-2007/55a1a6a05fc174ff49b8712d9c273ca2_lecture10.pdf
 file_size: 77148
 file_type: application/pdf
 learning_resource_types:
